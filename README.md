@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://jessicazambranocg.github.io/Tribute-Page-Project/)
 
 
 ## Getting Started
@@ -52,7 +52,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/JessicaZambranoCG/Tribute-Page-Project/issues).
 
 ## Show your support
 
